@@ -1,0 +1,12 @@
+>> Bulk Insertion through Php :
+
+The above can be done with ORM -- For that we will use Symfony Framework & [[ Doctorine Bundle ]]
+
+
+Task :
+___________________________
+Id	Name	MobileNo
+---------------------------
+NULL	Xxxx	+91-23463278
+
+https://symfony.com/doc/2.0/book/doctrine.html

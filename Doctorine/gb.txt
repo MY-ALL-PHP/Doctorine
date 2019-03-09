@@ -1,0 +1,66 @@
+198.36gb == ntfs Total size
+
+Available Total Size : 203GB
+Available for to shrink : 200 GB
+
+Required for the operation is : 20 GB => 2,0000
+After shrink the available space will be : 183GB
+
+Swap Memory area : 20 gb
+
+
+f2 change boot  
+f6  xxxx
+f7  xxxx
+f8  
+f9  
+
+
+partition #6 SCI1 (0, 0, 0) (sda) as ext4
+partitionn 7 ,,                      swap
+
+
+Your Name: Subrat
+
+Computers Nme: LHPL
+username : subrat
+passsword : t1397
+
+
+ 
+
+echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/chrome.list
+
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add -
+
+apt-get update
+
+apt-get install google-chrome-stable
+
+
+
+
+
+..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
